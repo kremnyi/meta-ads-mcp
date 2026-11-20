@@ -1,0 +1,9 @@
+{
+  "name": "meta-ads",
+  "displayName": "Meta Ads MCP",
+  "version": "0.2.0",
+  "description": "Meta Marketing API for Instagram and Facebook campaigns, with confirmation guards on every write.",
+  "author": { "name": "Bohdan Kremnyi" },
+  "license": "MIT",
+  "keywords": ["meta", "instagram", "facebook", "ads", "marketing-api"]
+}

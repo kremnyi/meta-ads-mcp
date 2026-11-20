@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.log
+*.tmp
+
+# Credentials belong in the env file outside the repository (see README.md).
+.env
+.env.*
+*.env
